@@ -22,3 +22,12 @@
    - 安装好油猴之后，就可以来安装插件了，[github中文插件](https://greasyfork.org/zh-CN/scripts/435208-github-%E4%B8%AD%E6%96%87%E5%8C%96%E6%8F%92%E4%BB%B6)，顺便可以看看[github中文插件的老家](https://github.com/maboloshi/github-chinese)
    - 至此我们的github使用准备工作就完成了
 
+### github 2FA认证
+
+- 所谓的2FA认证就是，**双重认证**。就像你登录账号的时候还要手机验证码验证一样，2FA认证有很多种，不过一般都是外国人才能使用的，我们能用的只有几种而已
+- [2FA认证教程](https://www.bilibili.com/video/BV1Cj411b7Tu/?spm_id_from=333.337.search-card.all.click&vd_source=60499a4850284be9bc949c4ca866b892)
+
+### github使用
+
+- [github新手够用指南](https://www.bilibili.com/video/BV1e541137Tc/?spm_id_from=333.337.search-card.all.click&vd_source=60499a4850284be9bc949c4ca866b892)
+- [github组织的基本认识](https://www.bilibili.com/video/BV16V411u7di/?spm_id_from=333.337.search-card.all.click&vd_source=60499a4850284be9bc949c4ca866b892)
